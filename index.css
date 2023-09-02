@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 958px;
+    background: linear-gradient(100deg, rgb(0, 10, 145), rgb(110, 130, 216), rgb(148, 149, 224));
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    justify-content: space-around;
+    color: black;
+}
+
+button {
+    margin-top: 7px;
+    justify-content: space-around;
+    border: none;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
